@@ -1,1 +1,1 @@
-This project included creating a simple landing page for an amazon product sold in the US, but with no designs and only lines of text.
+This project included creating a simple landing page for an amazon product sold in the US, but only with  lines of text and some buttons with no designs.
